@@ -1,0 +1,3 @@
+rootProject.name = 'ep_ny_3637'
+
+include ':app'
